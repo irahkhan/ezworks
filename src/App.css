@@ -638,6 +638,10 @@
     max-width: 200px;
   }
 
+  .home-mandala {
+    z-index: -1;
+  }
+
   .contact-section {
     padding: 2rem 1.5rem;
   }
